@@ -10,5 +10,5 @@ SPECIFIKÁCIÓK:
 5. Lehet regisztrálni, és bejelentkezni.
 6. 2 darab jogkör van, 1: USER, 2: ADMIN.
 
--BEMUTATÓ VIDEÓ YOUTUBEON: https://www.youtube.com/watch?v=rHg6lPQPKmU&ab_channel=SzabiVeres
+-BEMUTATÓ VIDEÓ YOUTUBEON: https://youtu.be/rHg6lPQPKmU
 

@@ -1,0 +1,22 @@
+h1{
+    font-size:2rem;
+    font-family: 'Courier New', Courier, monospace;
+    text-align: center;
+    padding-top:5%;
+}
+.log{
+    margin-top:3%;
+    margin-left:50%;
+}
+.loginPage{
+    padding-top:2%;
+    font-family: 'Courier New', Courier, monospace;
+}
+.registerPage{
+    padding-top:2%;
+    font-family: 'Courier New', Courier, monospace;
+}
+.lab{
+    margin-bottom:1%;
+    margin-top:1%;
+}

@@ -1,0 +1,15 @@
+<div class="container loginPage">
+    <form #loginForm="ngForm" (ngSubmit)="login(loginForm)">
+        <div class="form-group">
+          <label for="username" class="lab">Felhasználónév</label>
+          <input type="text" class="form-control"
+           ngModel id="userName" name="userName" placeholder="Felhasználónév">
+        </div>
+        <div class="form-group">
+          <label for="password" class="lab">Jelszó</label>
+          <input type="password" class="form-control"
+           ngModel id="userPassword" name="userPassword" placeholder="Jelszó">
+        </div>
+        <input type="submit" class="btn btn-primary log" value="Bejelentkezés">
+      </form>
+</div>
